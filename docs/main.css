@@ -128,13 +128,17 @@ section {
 }
 
 .prepare {
-    color: rgb(202, 202, 202);
+    color: rgb(177, 177, 177);
     font-size: 0.85rem;
     font-weight: 300;
 }
 
+.prepare > span{
+    font-size: 0.75rem;
+}
+
 .dashboard {
-    font-size: 1.8rem;
+    font-size: 1.7rem;
     font-weight: bold;
 }
 

@@ -3,9 +3,9 @@
 1. index.html
     - hackerrank dashboard - https://www.hackerrank.com/dashboard
 2. page02.html
-    - signup page -https://www.hackerrank.com/auth/signup
+    - signup page - https://www.hackerrank.com/skills-verification
 3. page03.html
-    - profile page - https://www.hackerrank.com/profile/KLN143
+    - profile page - https://www.hackerrank.com/auth/login
 
 #### [Click here to view the github page](https://industry-ready-2125.github.io/module-3-hosting-KLN-loki/)
 
